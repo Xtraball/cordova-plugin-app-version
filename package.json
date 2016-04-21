@@ -17,6 +17,14 @@
     "appversion",
     "plugin"
   ],
+  "cordova": {
+    "platforms": [
+      "android",
+      "ios",
+      "wp8",
+      "windows"
+    ]
+  },
   "author": "whiteoctober",
   "license": "MIT",
   "bugs": {
